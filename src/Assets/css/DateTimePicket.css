@@ -1,0 +1,14 @@
+.react-date-picker 
+.react-date-picker--closed 
+.react-date-picker--enabled,
+.react-date-picker__wrapper {
+    font-size: 1rem;
+    color: #495057;
+    background: #ffffff;
+    padding: 0.3rem 0.3rem;
+    border: 1px solid #ced4da;
+    appearance: none;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s, -webkit-box-shadow 0.2s;
+    border-radius: 3px;
+    width: 100%;
+}
